@@ -1,8 +1,9 @@
 .container{
 	background-color:cadetblue;
 	text-align: center;
-	margin: 0 10% 0 10%;
+	margin: 0 20% 0 20%;
 	border-radius: 2em;
 	box-shadow: 10 5 5;
+	padding: 2%;
 	color: #fff;
 }
